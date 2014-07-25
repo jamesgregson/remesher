@@ -50,6 +50,6 @@ command line was:
 
 ## Example outputs
 
-!
+![bunny](https://github.com/jamesgregson/remesher/blob/master/images/bunny.png)
 
 
