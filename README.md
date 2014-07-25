@@ -52,4 +52,8 @@ command line was:
 
 ![bunny](https://github.com/jamesgregson/remesher/blob/master/images/bunny.png)
 
+![cad model](https://github.com/jamesgregson/remesher/blob/master/images/cad1.png)
 
+![cad model](https://github.com/jamesgregson/remesher/blob/master/images/cad2.png)
+
+![cad model](https://github.com/jamesgregson/remesher/blob/master/images/cad3.png)
